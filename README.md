@@ -1,3 +1,5 @@
+[Android] (https://github.com/MilanVadhel/Android-Live-Templates/blob/main/android_studio.png)
+
 # Android Live Templates
 
  Import Android Live Templates to speed up your coding and reduce developing time.
