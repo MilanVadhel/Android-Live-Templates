@@ -1,2 +1,2 @@
 # Android-Live-Templates
-Import Android Live Templates to speedup your cooding and reduce develping time.
+Import Android Live Templates to speed up your coding and reduce developing time.
