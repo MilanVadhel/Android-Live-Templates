@@ -1,9 +1,8 @@
-[Android] (https://github.com/MilanVadhel/Android-Live-Templates/blob/main/android_studio.png)
-
 # Android Live Templates
 
  Import Android Live Templates to speed up your coding and reduce developing time.
 
+![Android Studio](https://github.com/MilanVadhel/Android-Live-Templates/blob/main/android_studio.png) 
 ## What is a Live Template?
 
 Live Template is adding a reusable code snippet in your editor by typing its abbreviation. Live Template helps you to speed up your coding and reduce the developing time. 
